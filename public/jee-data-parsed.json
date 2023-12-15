@@ -1,0 +1,7729 @@
+[
+  {
+    "title": "Physics",
+    "chapters": [
+      {
+        "name": "Mathematics in Physics",
+        "questData": {
+          "totalQues": 92,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 14,
+              "total": 14
+            },
+            "2020": {
+              "numerical": 2,
+              "singleCorrect": 3,
+              "total": 5
+            },
+            "2021": {
+              "numerical": 6,
+              "singleCorrect": 19,
+              "total": 25
+            },
+            "2022": {
+              "numerical": 5,
+              "singleCorrect": 9,
+              "total": 14
+            },
+            "2023": {
+              "numerical": 4,
+              "singleCorrect": 9,
+              "total": 13
+            }
+          }
+        }
+      },
+      {
+        "name": "Units and Dimensions",
+        "questData": {
+          "totalQues": 92,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 9,
+              "total": 9
+            },
+            "2020": {
+              "numerical": 0,
+              "singleCorrect": 9,
+              "total": 9
+            },
+            "2021": {
+              "numerical": 0,
+              "singleCorrect": 17,
+              "total": 17
+            },
+            "2022": {
+              "numerical": 0,
+              "singleCorrect": 15,
+              "total": 15
+            },
+            "2023": {
+              "numerical": 0,
+              "singleCorrect": 19,
+              "total": 19
+            }
+          }
+        }
+      },
+      {
+        "name": "Motion In One Dimension",
+        "questData": {
+          "totalQues": 135,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2020": {
+              "numerical": 4,
+              "singleCorrect": 13,
+              "total": 17
+            },
+            "2021": {
+              "numerical": 6,
+              "singleCorrect": 19,
+              "total": 25
+            },
+            "2022": {
+              "numerical": 7,
+              "singleCorrect": 16,
+              "total": 23
+            },
+            "2023": {
+              "numerical": 4,
+              "singleCorrect": 19,
+              "total": 23
+            }
+          }
+        }
+      },
+      {
+        "name": "Motion In Two Dimensions",
+        "questData": {
+          "totalQues": 98,
+          "yearWise": {
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 12,
+              "total": 12
+            },
+            "2020": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2021": {
+              "numerical": 8,
+              "singleCorrect": 12,
+              "total": 20
+            },
+            "2022": {
+              "numerical": 5,
+              "singleCorrect": 13,
+              "total": 18
+            },
+            "2023": {
+              "numerical": 6,
+              "singleCorrect": 18,
+              "total": 24
+            }
+          }
+        }
+      },
+      {
+        "name": "Laws of Motion",
+        "questData": {
+          "totalQues": 158,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 10,
+              "total": 10
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 10,
+              "total": 10
+            },
+            "2020": {
+              "numerical": 3,
+              "singleCorrect": 5,
+              "total": 8
+            },
+            "2021": {
+              "numerical": 12,
+              "singleCorrect": 16,
+              "total": 28
+            },
+            "2022": {
+              "numerical": 9,
+              "singleCorrect": 21,
+              "total": 30
+            },
+            "2023": {
+              "numerical": 0,
+              "singleCorrect": 21,
+              "total": 21
+            }
+          }
+        }
+      },
+      {
+        "name": "Work Power Energy",
+        "questData": {
+          "totalQues": 130,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2020": {
+              "numerical": 3,
+              "singleCorrect": 5,
+              "total": 8
+            },
+            "2021": {
+              "numerical": 10,
+              "singleCorrect": 10,
+              "total": 20
+            },
+            "2022": {
+              "numerical": 6,
+              "singleCorrect": 16,
+              "total": 22
+            },
+            "2023": {
+              "numerical": 20,
+              "singleCorrect": 6,
+              "total": 26
+            }
+          }
+        }
+      },
+      {
+        "name": "Center of Mass Momentum and Collision",
+        "questData": {
+          "totalQues": 104,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 15,
+              "total": 15
+            },
+            "2020": {
+              "numerical": 7,
+              "singleCorrect": 12,
+              "total": 19
+            },
+            "2021": {
+              "numerical": 8,
+              "singleCorrect": 7,
+              "total": 15
+            },
+            "2022": {
+              "numerical": 5,
+              "singleCorrect": 8,
+              "total": 13
+            },
+            "2023": {
+              "numerical": 4,
+              "singleCorrect": 9,
+              "total": 13
+            }
+          }
+        }
+      },
+      {
+        "name": "Rotational Motion",
+        "questData": {
+          "totalQues": 200,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 9,
+              "total": 9
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 31,
+              "total": 31
+            },
+            "2020": {
+              "numerical": 6,
+              "singleCorrect": 18,
+              "total": 24
+            },
+            "2021": {
+              "numerical": 15,
+              "singleCorrect": 24,
+              "total": 39
+            },
+            "2022": {
+              "numerical": 10,
+              "singleCorrect": 9,
+              "total": 19
+            },
+            "2023": {
+              "numerical": 21,
+              "singleCorrect": 1,
+              "total": 22
+            }
+          }
+        }
+      },
+      {
+        "name": "Gravitation",
+        "questData": {
+          "totalQues": 175,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 17,
+              "total": 17
+            },
+            "2020": {
+              "numerical": 1,
+              "singleCorrect": 15,
+              "total": 16
+            },
+            "2021": {
+              "numerical": 7,
+              "singleCorrect": 25,
+              "total": 32
+            },
+            "2022": {
+              "numerical": 3,
+              "singleCorrect": 21,
+              "total": 24
+            },
+            "2023": {
+              "numerical": 1,
+              "singleCorrect": 38,
+              "total": 39
+            }
+          }
+        }
+      },
+      {
+        "name": "Mechanical Properties of Solids",
+        "questData": {
+          "totalQues": 77,
+          "yearWise": {
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2020": {
+              "numerical": 2,
+              "singleCorrect": 3,
+              "total": 5
+            },
+            "2021": {
+              "numerical": 6,
+              "singleCorrect": 10,
+              "total": 16
+            },
+            "2022": {
+              "numerical": 7,
+              "singleCorrect": 6,
+              "total": 13
+            },
+            "2023": {
+              "numerical": 7,
+              "singleCorrect": 10,
+              "total": 17
+            }
+          }
+        }
+      },
+      {
+        "name": "Mechanical Properties of Fluids",
+        "questData": {
+          "totalQues": 124,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 11,
+              "total": 11
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 12,
+              "total": 12
+            },
+            "2020": {
+              "numerical": 1,
+              "singleCorrect": 13,
+              "total": 14
+            },
+            "2021": {
+              "numerical": 4,
+              "singleCorrect": 10,
+              "total": 14
+            },
+            "2022": {
+              "numerical": 8,
+              "singleCorrect": 11,
+              "total": 19
+            },
+            "2023": {
+              "numerical": 10,
+              "singleCorrect": 13,
+              "total": 23
+            }
+          }
+        }
+      },
+      {
+        "name": "Thermal Properties of Matter",
+        "questData": {
+          "totalQues": 113,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 13,
+              "total": 13
+            },
+            "2020": {
+              "numerical": 4,
+              "singleCorrect": 6,
+              "total": 10
+            },
+            "2021": {
+              "numerical": 4,
+              "singleCorrect": 11,
+              "total": 15
+            },
+            "2022": {
+              "numerical": 7,
+              "singleCorrect": 11,
+              "total": 18
+            },
+            "2023": {
+              "numerical": 7,
+              "singleCorrect": 8,
+              "total": 15
+            }
+          }
+        }
+      },
+      {
+        "name": "Thermodynamics",
+        "questData": {
+          "totalQues": 168,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 10,
+              "total": 10
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 14,
+              "total": 14
+            },
+            "2020": {
+              "numerical": 7,
+              "singleCorrect": 12,
+              "total": 19
+            },
+            "2021": {
+              "numerical": 10,
+              "singleCorrect": 22,
+              "total": 32
+            },
+            "2022": {
+              "numerical": 7,
+              "singleCorrect": 16,
+              "total": 23
+            },
+            "2023": {
+              "numerical": 0,
+              "singleCorrect": 25,
+              "total": 25
+            }
+          }
+        }
+      },
+      {
+        "name": "Kinetic Theory of Gases",
+        "questData": {
+          "totalQues": 126,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 19,
+              "total": 19
+            },
+            "2020": {
+              "numerical": 2,
+              "singleCorrect": 14,
+              "total": 16
+            },
+            "2021": {
+              "numerical": 4,
+              "singleCorrect": 22,
+              "total": 26
+            },
+            "2022": {
+              "numerical": 4,
+              "singleCorrect": 14,
+              "total": 18
+            },
+            "2023": {
+              "numerical": 0,
+              "singleCorrect": 17,
+              "total": 17
+            }
+          }
+        }
+      },
+      {
+        "name": "Oscillations",
+        "questData": {
+          "totalQues": 152,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 13,
+              "total": 13
+            },
+            "2020": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2021": {
+              "numerical": 10,
+              "singleCorrect": 26,
+              "total": 36
+            },
+            "2022": {
+              "numerical": 7,
+              "singleCorrect": 8,
+              "total": 15
+            },
+            "2023": {
+              "numerical": 11,
+              "singleCorrect": 12,
+              "total": 23
+            }
+          }
+        }
+      },
+      {
+        "name": "Waves and Sound",
+        "questData": {
+          "totalQues": 148,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 19,
+              "total": 19
+            },
+            "2020": {
+              "numerical": 1,
+              "singleCorrect": 12,
+              "total": 13
+            },
+            "2021": {
+              "numerical": 13,
+              "singleCorrect": 6,
+              "total": 19
+            },
+            "2022": {
+              "numerical": 11,
+              "singleCorrect": 11,
+              "total": 22
+            },
+            "2023": {
+              "numerical": 12,
+              "singleCorrect": 8,
+              "total": 20
+            }
+          }
+        }
+      },
+      {
+        "name": "Electrostatics",
+        "questData": {
+          "totalQues": 211,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 10,
+              "total": 10
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 27,
+              "total": 27
+            },
+            "2020": {
+              "numerical": 1,
+              "singleCorrect": 17,
+              "total": 18
+            },
+            "2021": {
+              "numerical": 13,
+              "singleCorrect": 19,
+              "total": 32
+            },
+            "2022": {
+              "numerical": 6,
+              "singleCorrect": 20,
+              "total": 26
+            },
+            "2023": {
+              "numerical": 15,
+              "singleCorrect": 19,
+              "total": 34
+            }
+          }
+        }
+      },
+      {
+        "name": "Capacitance",
+        "questData": {
+          "totalQues": 132,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 15,
+              "total": 15
+            },
+            "2020": {
+              "numerical": 3,
+              "singleCorrect": 10,
+              "total": 13
+            },
+            "2021": {
+              "numerical": 7,
+              "singleCorrect": 13,
+              "total": 20
+            },
+            "2022": {
+              "numerical": 9,
+              "singleCorrect": 16,
+              "total": 25
+            },
+            "2023": {
+              "numerical": 10,
+              "singleCorrect": 8,
+              "total": 18
+            }
+          }
+        }
+      },
+      {
+        "name": "Current Electricity",
+        "questData": {
+          "totalQues": 307,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 9,
+              "total": 9
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 9,
+              "total": 9
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 11,
+              "total": 11
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 42,
+              "total": 42
+            },
+            "2020": {
+              "numerical": 7,
+              "singleCorrect": 20,
+              "total": 27
+            },
+            "2021": {
+              "numerical": 22,
+              "singleCorrect": 27,
+              "total": 49
+            },
+            "2022": {
+              "numerical": 27,
+              "singleCorrect": 18,
+              "total": 45
+            },
+            "2023": {
+              "numerical": 22,
+              "singleCorrect": 28,
+              "total": 50
+            }
+          }
+        }
+      },
+      {
+        "name": "Magnetic Properties of Matter",
+        "questData": {
+          "totalQues": 67,
+          "yearWise": {
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2020": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2021": {
+              "numerical": 2,
+              "singleCorrect": 10,
+              "total": 12
+            },
+            "2022": {
+              "numerical": 1,
+              "singleCorrect": 9,
+              "total": 10
+            },
+            "2023": {
+              "numerical": 2,
+              "singleCorrect": 7,
+              "total": 9
+            }
+          }
+        }
+      },
+      {
+        "name": "Magnetic Effects of Current",
+        "questData": {
+          "totalQues": 204,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 24,
+              "total": 24
+            },
+            "2020": {
+              "numerical": 0,
+              "singleCorrect": 26,
+              "total": 26
+            },
+            "2021": {
+              "numerical": 6,
+              "singleCorrect": 17,
+              "total": 23
+            },
+            "2022": {
+              "numerical": 5,
+              "singleCorrect": 29,
+              "total": 34
+            },
+            "2023": {
+              "numerical": 10,
+              "singleCorrect": 25,
+              "total": 35
+            }
+          }
+        }
+      },
+      {
+        "name": "Electromagnetic Induction",
+        "questData": {
+          "totalQues": 108,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 10,
+              "total": 10
+            },
+            "2020": {
+              "numerical": 4,
+              "singleCorrect": 6,
+              "total": 10
+            },
+            "2021": {
+              "numerical": 5,
+              "singleCorrect": 9,
+              "total": 14
+            },
+            "2022": {
+              "numerical": 7,
+              "singleCorrect": 6,
+              "total": 13
+            },
+            "2023": {
+              "numerical": 14,
+              "singleCorrect": 10,
+              "total": 24
+            }
+          }
+        }
+      },
+      {
+        "name": "Alternating Current",
+        "questData": {
+          "totalQues": 149,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 10,
+              "total": 10
+            },
+            "2020": {
+              "numerical": 2,
+              "singleCorrect": 9,
+              "total": 11
+            },
+            "2021": {
+              "numerical": 13,
+              "singleCorrect": 27,
+              "total": 40
+            },
+            "2022": {
+              "numerical": 11,
+              "singleCorrect": 17,
+              "total": 28
+            },
+            "2023": {
+              "numerical": 11,
+              "singleCorrect": 11,
+              "total": 22
+            }
+          }
+        }
+      },
+      {
+        "name": "Electromagnetic Waves",
+        "questData": {
+          "totalQues": 119,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 15,
+              "total": 15
+            },
+            "2020": {
+              "numerical": 0,
+              "singleCorrect": 13,
+              "total": 13
+            },
+            "2021": {
+              "numerical": 8,
+              "singleCorrect": 14,
+              "total": 22
+            },
+            "2022": {
+              "numerical": 1,
+              "singleCorrect": 16,
+              "total": 17
+            },
+            "2023": {
+              "numerical": 0,
+              "singleCorrect": 18,
+              "total": 18
+            }
+          }
+        }
+      },
+      {
+        "name": "Ray Optics",
+        "questData": {
+          "totalQues": 202,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 10,
+              "total": 10
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 9,
+              "total": 9
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 26,
+              "total": 26
+            },
+            "2020": {
+              "numerical": 8,
+              "singleCorrect": 12,
+              "total": 20
+            },
+            "2021": {
+              "numerical": 9,
+              "singleCorrect": 22,
+              "total": 31
+            },
+            "2022": {
+              "numerical": 12,
+              "singleCorrect": 16,
+              "total": 28
+            },
+            "2023": {
+              "numerical": 17,
+              "singleCorrect": 16,
+              "total": 33
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "title": "Chemistry",
+    "chapters": [
+      {
+        "name": "Some Basic Concepts of Chemistry",
+        "questData": {
+          "totalQues": 150,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 9,
+              "total": 9
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 12,
+              "total": 12
+            },
+            "2020": {
+              "numerical": 8,
+              "singleCorrect": 5,
+              "total": 13
+            },
+            "2021": {
+              "numerical": 24,
+              "singleCorrect": 2,
+              "total": 26
+            },
+            "2022": {
+              "numerical": 17,
+              "singleCorrect": 12,
+              "total": 29
+            },
+            "2023": {
+              "numerical": 12,
+              "singleCorrect": 8,
+              "total": 20
+            }
+          }
+        }
+      },
+      {
+        "name": "Structure of Atom",
+        "questData": {
+          "totalQues": 174,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 18,
+              "total": 18
+            },
+            "2020": {
+              "numerical": 1,
+              "singleCorrect": 12,
+              "total": 13
+            },
+            "2021": {
+              "numerical": 17,
+              "singleCorrect": 11,
+              "total": 28
+            },
+            "2022": {
+              "numerical": 9,
+              "singleCorrect": 16,
+              "total": 25
+            },
+            "2023": {
+              "numerical": 15,
+              "singleCorrect": 14,
+              "total": 29
+            }
+          }
+        }
+      },
+      {
+        "name": "Classification of Elements and Periodicity in Properties",
+        "questData": {
+          "totalQues": 122,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 14,
+              "total": 14
+            },
+            "2020": {
+              "numerical": 1,
+              "singleCorrect": 16,
+              "total": 17
+            },
+            "2021": {
+              "numerical": 0,
+              "singleCorrect": 18,
+              "total": 18
+            },
+            "2022": {
+              "numerical": 0,
+              "singleCorrect": 17,
+              "total": 17
+            },
+            "2023": {
+              "numerical": 0,
+              "singleCorrect": 15,
+              "total": 15
+            }
+          }
+        }
+      },
+      {
+        "name": "Chemical Bonding and Molecular Structure",
+        "questData": {
+          "totalQues": 219,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 11,
+              "total": 11
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 12,
+              "total": 12
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 9,
+              "total": 9
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 17,
+              "total": 17
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 10,
+              "total": 10
+            },
+            "2020": {
+              "numerical": 0,
+              "singleCorrect": 20,
+              "total": 20
+            },
+            "2021": {
+              "numerical": 10,
+              "singleCorrect": 22,
+              "total": 32
+            },
+            "2022": {
+              "numerical": 10,
+              "singleCorrect": 20,
+              "total": 30
+            },
+            "2023": {
+              "numerical": 13,
+              "singleCorrect": 22,
+              "total": 35
+            }
+          }
+        }
+      },
+      {
+        "name": "Thermodynamics (C)",
+        "questData": {
+          "totalQues": 187,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 9,
+              "total": 9
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 23,
+              "total": 23
+            },
+            "2020": {
+              "numerical": 8,
+              "singleCorrect": 7,
+              "total": 15
+            },
+            "2021": {
+              "numerical": 24,
+              "singleCorrect": 3,
+              "total": 27
+            },
+            "2022": {
+              "numerical": 18,
+              "singleCorrect": 5,
+              "total": 23
+            },
+            "2023": {
+              "numerical": 25,
+              "singleCorrect": 5,
+              "total": 30
+            }
+          }
+        }
+      },
+      {
+        "name": "Chemical Equilibrium",
+        "questData": {
+          "totalQues": 90,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2020": {
+              "numerical": 1,
+              "singleCorrect": 7,
+              "total": 8
+            },
+            "2021": {
+              "numerical": 15,
+              "singleCorrect": 0,
+              "total": 15
+            },
+            "2022": {
+              "numerical": 5,
+              "singleCorrect": 2,
+              "total": 7
+            },
+            "2023": {
+              "numerical": 9,
+              "singleCorrect": 2,
+              "total": 11
+            }
+          }
+        }
+      },
+      {
+        "name": "Ionic Equilibrium",
+        "questData": {
+          "totalQues": 117,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 10,
+              "total": 10
+            },
+            "2020": {
+              "numerical": 4,
+              "singleCorrect": 6,
+              "total": 10
+            },
+            "2021": {
+              "numerical": 12,
+              "singleCorrect": 5,
+              "total": 17
+            },
+            "2022": {
+              "numerical": 5,
+              "singleCorrect": 10,
+              "total": 15
+            },
+            "2023": {
+              "numerical": 12,
+              "singleCorrect": 4,
+              "total": 16
+            }
+          }
+        }
+      },
+      {
+        "name": "Redox Reactions",
+        "questData": {
+          "totalQues": 78,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2020": {
+              "numerical": 4,
+              "singleCorrect": 6,
+              "total": 10
+            },
+            "2021": {
+              "numerical": 12,
+              "singleCorrect": 9,
+              "total": 21
+            },
+            "2022": {
+              "numerical": 9,
+              "singleCorrect": 5,
+              "total": 14
+            },
+            "2023": {
+              "numerical": 6,
+              "singleCorrect": 8,
+              "total": 14
+            }
+          }
+        }
+      },
+      {
+        "name": "p Block Elements (Group 13 & 14)",
+        "questData": {
+          "totalQues": 71,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 12,
+              "total": 12
+            },
+            "2020": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2021": {
+              "numerical": 1,
+              "singleCorrect": 7,
+              "total": 8
+            },
+            "2022": {
+              "numerical": 0,
+              "singleCorrect": 12,
+              "total": 12
+            },
+            "2023": {
+              "numerical": 1,
+              "singleCorrect": 11,
+              "total": 12
+            }
+          }
+        }
+      },
+      {
+        "name": "General Organic Chemistry",
+        "questData": {
+          "totalQues": 282,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 11,
+              "total": 11
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 10,
+              "total": 10
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 23,
+              "total": 23
+            },
+            "2020": {
+              "numerical": 2,
+              "singleCorrect": 25,
+              "total": 27
+            },
+            "2021": {
+              "numerical": 12,
+              "singleCorrect": 40,
+              "total": 52
+            },
+            "2022": {
+              "numerical": 13,
+              "singleCorrect": 30,
+              "total": 43
+            },
+            "2023": {
+              "numerical": 9,
+              "singleCorrect": 32,
+              "total": 41
+            }
+          }
+        }
+      },
+      {
+        "name": "Hydrocarbons",
+        "questData": {
+          "totalQues": 162,
+          "yearWise": {
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 21,
+              "total": 21
+            },
+            "2020": {
+              "numerical": 3,
+              "singleCorrect": 18,
+              "total": 21
+            },
+            "2021": {
+              "numerical": 3,
+              "singleCorrect": 35,
+              "total": 38
+            },
+            "2022": {
+              "numerical": 5,
+              "singleCorrect": 17,
+              "total": 22
+            },
+            "2023": {
+              "numerical": 4,
+              "singleCorrect": 18,
+              "total": 22
+            }
+          }
+        }
+      },
+      {
+        "name": "Solutions",
+        "questData": {
+          "totalQues": 159,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 19,
+              "total": 19
+            },
+            "2020": {
+              "numerical": 7,
+              "singleCorrect": 6,
+              "total": 13
+            },
+            "2021": {
+              "numerical": 27,
+              "singleCorrect": 2,
+              "total": 29
+            },
+            "2022": {
+              "numerical": 16,
+              "singleCorrect": 5,
+              "total": 21
+            },
+            "2023": {
+              "numerical": 26,
+              "singleCorrect": 5,
+              "total": 31
+            }
+          }
+        }
+      },
+      {
+        "name": "Electrochemistry",
+        "questData": {
+          "totalQues": 162,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 14,
+              "total": 14
+            },
+            "2020": {
+              "numerical": 8,
+              "singleCorrect": 8,
+              "total": 16
+            },
+            "2021": {
+              "numerical": 18,
+              "singleCorrect": 3,
+              "total": 21
+            },
+            "2022": {
+              "numerical": 16,
+              "singleCorrect": 7,
+              "total": 23
+            },
+            "2023": {
+              "numerical": 18,
+              "singleCorrect": 6,
+              "total": 24
+            }
+          }
+        }
+      },
+      {
+        "name": "Chemical Kinetics",
+        "questData": {
+          "totalQues": 162,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 17,
+              "total": 17
+            },
+            "2020": {
+              "numerical": 5,
+              "singleCorrect": 11,
+              "total": 16
+            },
+            "2021": {
+              "numerical": 22,
+              "singleCorrect": 4,
+              "total": 26
+            },
+            "2022": {
+              "numerical": 20,
+              "singleCorrect": 2,
+              "total": 22
+            },
+            "2023": {
+              "numerical": 20,
+              "singleCorrect": 5,
+              "total": 25
+            }
+          }
+        }
+      },
+      {
+        "name": "p Block Elements (Group 15, 16, 17 & 18)",
+        "questData": {
+          "totalQues": 162,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 13,
+              "total": 13
+            },
+            "2020": {
+              "numerical": 3,
+              "singleCorrect": 11,
+              "total": 14
+            },
+            "2021": {
+              "numerical": 6,
+              "singleCorrect": 20,
+              "total": 26
+            },
+            "2022": {
+              "numerical": 4,
+              "singleCorrect": 26,
+              "total": 30
+            },
+            "2023": {
+              "numerical": 6,
+              "singleCorrect": 21,
+              "total": 27
+            }
+          }
+        }
+      },
+      {
+        "name": "d and f Block Elements",
+        "questData": {
+          "totalQues": 165,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 13,
+              "total": 13
+            },
+            "2020": {
+              "numerical": 1,
+              "singleCorrect": 10,
+              "total": 11
+            },
+            "2021": {
+              "numerical": 4,
+              "singleCorrect": 24,
+              "total": 28
+            },
+            "2022": {
+              "numerical": 11,
+              "singleCorrect": 17,
+              "total": 28
+            },
+            "2023": {
+              "numerical": 3,
+              "singleCorrect": 23,
+              "total": 26
+            }
+          }
+        }
+      },
+      {
+        "name": "Coordination Compounds",
+        "questData": {
+          "totalQues": 259,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 11,
+              "total": 11
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 30,
+              "total": 30
+            },
+            "2020": {
+              "numerical": 4,
+              "singleCorrect": 27,
+              "total": 31
+            },
+            "2021": {
+              "numerical": 17,
+              "singleCorrect": 26,
+              "total": 43
+            },
+            "2022": {
+              "numerical": 17,
+              "singleCorrect": 13,
+              "total": 30
+            },
+            "2023": {
+              "numerical": 15,
+              "singleCorrect": 38,
+              "total": 53
+            }
+          }
+        }
+      },
+      {
+        "name": "Haloalkanes and Haloarenes",
+        "questData": {
+          "totalQues": 138,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 9,
+              "total": 9
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 15,
+              "total": 15
+            },
+            "2020": {
+              "numerical": 0,
+              "singleCorrect": 12,
+              "total": 12
+            },
+            "2021": {
+              "numerical": 0,
+              "singleCorrect": 14,
+              "total": 14
+            },
+            "2022": {
+              "numerical": 2,
+              "singleCorrect": 13,
+              "total": 15
+            },
+            "2023": {
+              "numerical": 2,
+              "singleCorrect": 18,
+              "total": 20
+            }
+          }
+        }
+      },
+      {
+        "name": "Alcohols Phenols and Ethers",
+        "questData": {
+          "totalQues": 146,
+          "yearWise": {
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 11,
+              "total": 11
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 10,
+              "total": 10
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 15,
+              "total": 15
+            },
+            "2020": {
+              "numerical": 1,
+              "singleCorrect": 7,
+              "total": 8
+            },
+            "2021": {
+              "numerical": 1,
+              "singleCorrect": 24,
+              "total": 25
+            },
+            "2022": {
+              "numerical": 4,
+              "singleCorrect": 22,
+              "total": 26
+            },
+            "2023": {
+              "numerical": 3,
+              "singleCorrect": 22,
+              "total": 25
+            }
+          }
+        }
+      },
+      {
+        "name": "Aldehydes and Ketones",
+        "questData": {
+          "totalQues": 118,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 18,
+              "total": 18
+            },
+            "2020": {
+              "numerical": 1,
+              "singleCorrect": 11,
+              "total": 12
+            },
+            "2021": {
+              "numerical": 1,
+              "singleCorrect": 24,
+              "total": 25
+            },
+            "2022": {
+              "numerical": 3,
+              "singleCorrect": 13,
+              "total": 16
+            },
+            "2023": {
+              "numerical": 7,
+              "singleCorrect": 13,
+              "total": 20
+            }
+          }
+        }
+      },
+      {
+        "name": "Carboxylic Acid Derivatives",
+        "questData": {
+          "totalQues": 58,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 13,
+              "total": 13
+            },
+            "2020": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2021": {
+              "numerical": 1,
+              "singleCorrect": 11,
+              "total": 12
+            },
+            "2022": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2023": {
+              "numerical": 1,
+              "singleCorrect": 4,
+              "total": 5
+            }
+          }
+        }
+      },
+      {
+        "name": "Amines",
+        "questData": {
+          "totalQues": 149,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 19,
+              "total": 19
+            },
+            "2020": {
+              "numerical": 1,
+              "singleCorrect": 13,
+              "total": 14
+            },
+            "2021": {
+              "numerical": 4,
+              "singleCorrect": 36,
+              "total": 40
+            },
+            "2022": {
+              "numerical": 0,
+              "singleCorrect": 22,
+              "total": 22
+            },
+            "2023": {
+              "numerical": 2,
+              "singleCorrect": 23,
+              "total": 25
+            }
+          }
+        }
+      },
+      {
+        "name": "Biomolecules",
+        "questData": {
+          "totalQues": 150,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 18,
+              "total": 18
+            },
+            "2020": {
+              "numerical": 4,
+              "singleCorrect": 10,
+              "total": 14
+            },
+            "2021": {
+              "numerical": 2,
+              "singleCorrect": 27,
+              "total": 29
+            },
+            "2022": {
+              "numerical": 7,
+              "singleCorrect": 16,
+              "total": 23
+            },
+            "2023": {
+              "numerical": 4,
+              "singleCorrect": 17,
+              "total": 21
+            }
+          }
+        }
+      },
+      {
+        "name": "Practical Chemistry",
+        "questData": {
+          "totalQues": 14,
+          "yearWise": {
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2021": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2022": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2023": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "title": "Mathematics",
+    "chapters": [
+      {
+        "name": "Basic of Mathematics",
+        "questData": {
+          "totalQues": 16,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2020": {
+              "numerical": 1,
+              "singleCorrect": 1,
+              "total": 2
+            },
+            "2021": {
+              "numerical": 3,
+              "singleCorrect": 2,
+              "total": 5
+            },
+            "2022": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2023": {
+              "numerical": 1,
+              "singleCorrect": 2,
+              "total": 3
+            }
+          }
+        }
+      },
+      {
+        "name": "Quadratic Equation",
+        "questData": {
+          "totalQues": 147,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 18,
+              "total": 18
+            },
+            "2020": {
+              "numerical": 1,
+              "singleCorrect": 17,
+              "total": 18
+            },
+            "2021": {
+              "numerical": 8,
+              "singleCorrect": 15,
+              "total": 23
+            },
+            "2022": {
+              "numerical": 10,
+              "singleCorrect": 8,
+              "total": 18
+            },
+            "2023": {
+              "numerical": 8,
+              "singleCorrect": 11,
+              "total": 19
+            }
+          }
+        }
+      },
+      {
+        "name": "Complex Number",
+        "questData": {
+          "totalQues": 161,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 16,
+              "total": 16
+            },
+            "2020": {
+              "numerical": 1,
+              "singleCorrect": 15,
+              "total": 16
+            },
+            "2021": {
+              "numerical": 13,
+              "singleCorrect": 16,
+              "total": 29
+            },
+            "2022": {
+              "numerical": 7,
+              "singleCorrect": 20,
+              "total": 27
+            },
+            "2023": {
+              "numerical": 5,
+              "singleCorrect": 19,
+              "total": 24
+            }
+          }
+        }
+      },
+      {
+        "name": "Permutation Combination",
+        "questData": {
+          "totalQues": 155,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 13,
+              "total": 13
+            },
+            "2020": {
+              "numerical": 7,
+              "singleCorrect": 5,
+              "total": 12
+            },
+            "2021": {
+              "numerical": 17,
+              "singleCorrect": 9,
+              "total": 26
+            },
+            "2022": {
+              "numerical": 16,
+              "singleCorrect": 2,
+              "total": 18
+            },
+            "2023": {
+              "numerical": 25,
+              "singleCorrect": 15,
+              "total": 40
+            }
+          }
+        }
+      },
+      {
+        "name": "Sequences and Series",
+        "questData": {
+          "totalQues": 262,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 10,
+              "total": 10
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 11,
+              "total": 11
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 10,
+              "total": 10
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 27,
+              "total": 27
+            },
+            "2020": {
+              "numerical": 5,
+              "singleCorrect": 23,
+              "total": 28
+            },
+            "2021": {
+              "numerical": 15,
+              "singleCorrect": 26,
+              "total": 41
+            },
+            "2022": {
+              "numerical": 17,
+              "singleCorrect": 20,
+              "total": 37
+            },
+            "2023": {
+              "numerical": 25,
+              "singleCorrect": 21,
+              "total": 46
+            }
+          }
+        }
+      },
+      {
+        "name": "Binomial Theorem",
+        "questData": {
+          "totalQues": 207,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 22,
+              "total": 22
+            },
+            "2020": {
+              "numerical": 7,
+              "singleCorrect": 13,
+              "total": 20
+            },
+            "2021": {
+              "numerical": 20,
+              "singleCorrect": 19,
+              "total": 39
+            },
+            "2022": {
+              "numerical": 15,
+              "singleCorrect": 12,
+              "total": 27
+            },
+            "2023": {
+              "numerical": 22,
+              "singleCorrect": 26,
+              "total": 48
+            }
+          }
+        }
+      },
+      {
+        "name": "Trigonometric Ratios & Identities",
+        "questData": {
+          "totalQues": 45,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2020": {
+              "numerical": 1,
+              "singleCorrect": 3,
+              "total": 4
+            },
+            "2021": {
+              "numerical": 1,
+              "singleCorrect": 6,
+              "total": 7
+            },
+            "2022": {
+              "numerical": 1,
+              "singleCorrect": 7,
+              "total": 8
+            },
+            "2023": {
+              "numerical": 1,
+              "singleCorrect": 3,
+              "total": 4
+            }
+          }
+        }
+      },
+      {
+        "name": "Straight Lines",
+        "questData": {
+          "totalQues": 153,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 9,
+              "total": 9
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 10,
+              "total": 10
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 9,
+              "total": 9
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 18,
+              "total": 18
+            },
+            "2020": {
+              "numerical": 3,
+              "singleCorrect": 8,
+              "total": 11
+            },
+            "2021": {
+              "numerical": 5,
+              "singleCorrect": 15,
+              "total": 20
+            },
+            "2022": {
+              "numerical": 3,
+              "singleCorrect": 14,
+              "total": 17
+            },
+            "2023": {
+              "numerical": 5,
+              "singleCorrect": 12,
+              "total": 17
+            }
+          }
+        }
+      },
+      {
+        "name": "Circle",
+        "questData": {
+          "totalQues": 154,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 21,
+              "total": 21
+            },
+            "2020": {
+              "numerical": 2,
+              "singleCorrect": 5,
+              "total": 7
+            },
+            "2021": {
+              "numerical": 8,
+              "singleCorrect": 18,
+              "total": 26
+            },
+            "2022": {
+              "numerical": 9,
+              "singleCorrect": 15,
+              "total": 24
+            },
+            "2023": {
+              "numerical": 7,
+              "singleCorrect": 13,
+              "total": 20
+            }
+          }
+        }
+      },
+      {
+        "name": "Parabola",
+        "questData": {
+          "totalQues": 106,
+          "yearWise": {
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 13,
+              "total": 13
+            },
+            "2020": {
+              "numerical": 1,
+              "singleCorrect": 10,
+              "total": 11
+            },
+            "2021": {
+              "numerical": 4,
+              "singleCorrect": 13,
+              "total": 17
+            },
+            "2022": {
+              "numerical": 6,
+              "singleCorrect": 13,
+              "total": 19
+            },
+            "2023": {
+              "numerical": 5,
+              "singleCorrect": 9,
+              "total": 14
+            }
+          }
+        }
+      },
+      {
+        "name": "Ellipse",
+        "questData": {
+          "totalQues": 89,
+          "yearWise": {
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 12,
+              "total": 12
+            },
+            "2020": {
+              "numerical": 0,
+              "singleCorrect": 10,
+              "total": 10
+            },
+            "2021": {
+              "numerical": 3,
+              "singleCorrect": 13,
+              "total": 16
+            },
+            "2022": {
+              "numerical": 3,
+              "singleCorrect": 8,
+              "total": 11
+            },
+            "2023": {
+              "numerical": 4,
+              "singleCorrect": 6,
+              "total": 10
+            }
+          }
+        }
+      },
+      {
+        "name": "Hyperbola",
+        "questData": {
+          "totalQues": 72,
+          "yearWise": {
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 12,
+              "total": 12
+            },
+            "2020": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2021": {
+              "numerical": 3,
+              "singleCorrect": 7,
+              "total": 10
+            },
+            "2022": {
+              "numerical": 8,
+              "singleCorrect": 9,
+              "total": 17
+            },
+            "2023": {
+              "numerical": 6,
+              "singleCorrect": 4,
+              "total": 10
+            }
+          }
+        }
+      },
+      {
+        "name": "Limits",
+        "questData": {
+          "totalQues": 103,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 13,
+              "total": 13
+            },
+            "2020": {
+              "numerical": 3,
+              "singleCorrect": 6,
+              "total": 9
+            },
+            "2021": {
+              "numerical": 5,
+              "singleCorrect": 14,
+              "total": 19
+            },
+            "2022": {
+              "numerical": 3,
+              "singleCorrect": 11,
+              "total": 14
+            },
+            "2023": {
+              "numerical": 0,
+              "singleCorrect": 10,
+              "total": 10
+            }
+          }
+        }
+      },
+      {
+        "name": "Statistics",
+        "questData": {
+          "totalQues": 123,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 14,
+              "total": 14
+            },
+            "2020": {
+              "numerical": 5,
+              "singleCorrect": 10,
+              "total": 15
+            },
+            "2021": {
+              "numerical": 11,
+              "singleCorrect": 9,
+              "total": 20
+            },
+            "2022": {
+              "numerical": 6,
+              "singleCorrect": 6,
+              "total": 12
+            },
+            "2023": {
+              "numerical": 9,
+              "singleCorrect": 12,
+              "total": 21
+            }
+          }
+        }
+      },
+      {
+        "name": "Sets and Relations",
+        "questData": {
+          "totalQues": 72,
+          "yearWise": {
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2020": {
+              "numerical": 2,
+              "singleCorrect": 5,
+              "total": 7
+            },
+            "2021": {
+              "numerical": 2,
+              "singleCorrect": 8,
+              "total": 10
+            },
+            "2022": {
+              "numerical": 6,
+              "singleCorrect": 5,
+              "total": 11
+            },
+            "2023": {
+              "numerical": 8,
+              "singleCorrect": 13,
+              "total": 21
+            }
+          }
+        }
+      },
+      {
+        "name": "Matrices",
+        "questData": {
+          "totalQues": 157,
+          "yearWise": {
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 9,
+              "total": 9
+            },
+            "2020": {
+              "numerical": 2,
+              "singleCorrect": 9,
+              "total": 11
+            },
+            "2021": {
+              "numerical": 19,
+              "singleCorrect": 13,
+              "total": 32
+            },
+            "2022": {
+              "numerical": 16,
+              "singleCorrect": 16,
+              "total": 32
+            },
+            "2023": {
+              "numerical": 4,
+              "singleCorrect": 25,
+              "total": 29
+            }
+          }
+        }
+      },
+      {
+        "name": "Determinants",
+        "questData": {
+          "totalQues": 155,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 24,
+              "total": 24
+            },
+            "2020": {
+              "numerical": 4,
+              "singleCorrect": 17,
+              "total": 21
+            },
+            "2021": {
+              "numerical": 5,
+              "singleCorrect": 23,
+              "total": 28
+            },
+            "2022": {
+              "numerical": 2,
+              "singleCorrect": 14,
+              "total": 16
+            },
+            "2023": {
+              "numerical": 2,
+              "singleCorrect": 20,
+              "total": 22
+            }
+          }
+        }
+      },
+      {
+        "name": "Inverse Trigonometric Functions",
+        "questData": {
+          "totalQues": 62,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2020": {
+              "numerical": 1,
+              "singleCorrect": 2,
+              "total": 3
+            },
+            "2021": {
+              "numerical": 1,
+              "singleCorrect": 13,
+              "total": 14
+            },
+            "2022": {
+              "numerical": 3,
+              "singleCorrect": 10,
+              "total": 13
+            },
+            "2023": {
+              "numerical": 3,
+              "singleCorrect": 7,
+              "total": 10
+            }
+          }
+        }
+      },
+      {
+        "name": "Functions",
+        "questData": {
+          "totalQues": 149,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 15,
+              "total": 15
+            },
+            "2020": {
+              "numerical": 3,
+              "singleCorrect": 8,
+              "total": 11
+            },
+            "2021": {
+              "numerical": 5,
+              "singleCorrect": 23,
+              "total": 28
+            },
+            "2022": {
+              "numerical": 9,
+              "singleCorrect": 16,
+              "total": 25
+            },
+            "2023": {
+              "numerical": 9,
+              "singleCorrect": 25,
+              "total": 34
+            }
+          }
+        }
+      },
+      {
+        "name": "Continuity and Differentiability",
+        "questData": {
+          "totalQues": 115,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 14,
+              "total": 14
+            },
+            "2020": {
+              "numerical": 4,
+              "singleCorrect": 8,
+              "total": 12
+            },
+            "2021": {
+              "numerical": 11,
+              "singleCorrect": 17,
+              "total": 28
+            },
+            "2022": {
+              "numerical": 4,
+              "singleCorrect": 14,
+              "total": 18
+            },
+            "2023": {
+              "numerical": 5,
+              "singleCorrect": 6,
+              "total": 11
+            }
+          }
+        }
+      },
+      {
+        "name": "Differentiation",
+        "questData": {
+          "totalQues": 59,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 9,
+              "total": 9
+            },
+            "2020": {
+              "numerical": 0,
+              "singleCorrect": 10,
+              "total": 10
+            },
+            "2021": {
+              "numerical": 3,
+              "singleCorrect": 3,
+              "total": 6
+            },
+            "2022": {
+              "numerical": 3,
+              "singleCorrect": 5,
+              "total": 8
+            },
+            "2023": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            }
+          }
+        }
+      },
+      {
+        "name": "Application of Derivatives",
+        "questData": {
+          "totalQues": 238,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 8,
+              "total": 8
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 11,
+              "total": 11
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 9,
+              "total": 9
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 7,
+              "total": 7
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 26,
+              "total": 26
+            },
+            "2020": {
+              "numerical": 6,
+              "singleCorrect": 24,
+              "total": 30
+            },
+            "2021": {
+              "numerical": 15,
+              "singleCorrect": 27,
+              "total": 42
+            },
+            "2022": {
+              "numerical": 11,
+              "singleCorrect": 27,
+              "total": 38
+            },
+            "2023": {
+              "numerical": 8,
+              "singleCorrect": 15,
+              "total": 23
+            }
+          }
+        }
+      },
+      {
+        "name": "Indefinite Integration",
+        "questData": {
+          "totalQues": 84,
+          "yearWise": {
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 16,
+              "total": 16
+            },
+            "2020": {
+              "numerical": 0,
+              "singleCorrect": 9,
+              "total": 9
+            },
+            "2021": {
+              "numerical": 5,
+              "singleCorrect": 5,
+              "total": 10
+            },
+            "2022": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2023": {
+              "numerical": 3,
+              "singleCorrect": 7,
+              "total": 10
+            }
+          }
+        }
+      },
+      {
+        "name": "Definite Integration",
+        "questData": {
+          "totalQues": 227,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2006": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 21,
+              "total": 21
+            },
+            "2020": {
+              "numerical": 3,
+              "singleCorrect": 14,
+              "total": 17
+            },
+            "2021": {
+              "numerical": 14,
+              "singleCorrect": 37,
+              "total": 51
+            },
+            "2022": {
+              "numerical": 14,
+              "singleCorrect": 25,
+              "total": 39
+            },
+            "2023": {
+              "numerical": 14,
+              "singleCorrect": 24,
+              "total": 38
+            }
+          }
+        }
+      },
+      {
+        "name": "Area Under Curves",
+        "questData": {
+          "totalQues": 124,
+          "yearWise": {
+            "2002": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2003": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2004": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2005": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2007": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2008": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2009": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2010": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2011": {
+              "numerical": 0,
+              "singleCorrect": 1,
+              "total": 1
+            },
+            "2012": {
+              "numerical": 0,
+              "singleCorrect": 6,
+              "total": 6
+            },
+            "2013": {
+              "numerical": 0,
+              "singleCorrect": 5,
+              "total": 5
+            },
+            "2014": {
+              "numerical": 0,
+              "singleCorrect": 3,
+              "total": 3
+            },
+            "2015": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2016": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2017": {
+              "numerical": 0,
+              "singleCorrect": 2,
+              "total": 2
+            },
+            "2018": {
+              "numerical": 0,
+              "singleCorrect": 4,
+              "total": 4
+            },
+            "2019": {
+              "numerical": 0,
+              "singleCorrect": 14,
+              "total": 14
+            },
+            "2020": {
+              "numerical": 0,
+              "singleCorrect": 10,
+              "total": 10
+            },
+            "2021": {
+              "numerical": 9,
+              "singleCorrect": 9,
+              "total": 18
+            },
+            "2022": {
+              "numerical": 6,
+              "singleCorrect": 14,
+              "total": 20
+            },
+            "2023": {
+              "numerical": 13,
+              "singleCorrect": 14,
+              "total": 27
+            }
+          }
+        }
+      }
+    ]
+  }
+]

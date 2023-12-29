@@ -5,10 +5,8 @@ import {
   Container,
   Box,
   FormLabel as Label,
-  MenuItem,
   Radio,
   RadioGroup,
-  Select,
   Slider,
   ToggleButton,
   ToggleButtonGroup,
@@ -70,18 +68,18 @@ export default function App() {
         <Box sx={{ display: "grid", gridTemplateColumns: "repeat(2, auto)", gridGap: "1fr" }}>
           <FormControl>
             <Label>Years:</Label>
-            <Slider style={{ width: 300, marginTop: 10 }} value={yearRange} onChange={(e, v) => Array.isArray(v) && setYearRange([v[0], v[1]])} min={2002} max={2023} valueLabelDisplay="on" />
+            <Slider style={{ width: 300, marginTop: 10 }} value={yearRange} onChange={(_e, v) => Array.isArray(v) && setYearRange([v[0], v[1]])} min={2002} max={2023} valueLabelDisplay="on" />
           </FormControl>
           <FormControl>
             <Label>Subject:</Label>
-            <ToggleButtonGroup color="primary" value={subject} exclusive onChange={(e, v) => setSubject(v!)} aria-label="Subject">
+            <ToggleButtonGroup color="primary" value={subject} exclusive onChange={(_e, v) => setSubject(v!)} aria-label="Subject">
               <ToggleButton value={0}>Physics</ToggleButton>
               <ToggleButton value={1}>Chemistry</ToggleButton>
               <ToggleButton value={2}>Maths</ToggleButton>
             </ToggleButtonGroup>
           </FormControl>
           <FormControlLabel control={<Checkbox checked={sort} onChange={(e) => setSort(e.target.checked)} />} label="Sort Descending" />
-          <RadioGroup row value={filter} onChange={(e, v) => setFilter(v)} aria-label="Sort">
+          <RadioGroup row value={filter} onChange={(_e, v) => setFilter(v)} aria-label="Sort">
             <FormControlLabel value={"total"} control={<Radio />} label="All" />
             <FormControlLabel value={"singleCorrect"} control={<Radio />} label="MCQ" />
             <FormControlLabel value={"numerical"} control={<Radio />} label="Numeric" />

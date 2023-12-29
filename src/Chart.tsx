@@ -1,4 +1,3 @@
-// @ts-nocheck
 import { BarChart, Bar, XAxis, YAxis, Tooltip, CartesianGrid } from "recharts";
 
 const CustomTooltip = ({ active, payload, label }: any) => {
@@ -17,10 +16,10 @@ const initials = (txt: string) => {
   return txt
     .split(" ")
     .map((word) => word[0])
-    .join("").slice(0, 3)
+    .filter((l, i) => i == 0 || (l == l.toUpperCase() && l != l.toLowerCase()))
+    .join("")
+    .slice(0, 3);
 };
-
-
 
 export default function Chart({ data }: any) {
   return (
@@ -36,18 +35,18 @@ export default function Chart({ data }: any) {
       }}
     >
       <CartesianGrid strokeDasharray="3 3" />
-      <XAxis
-        dataKey="name"
-        allowDataOverflow={true}
-        allowReorder="yes"
-        tickFormatter={(tick) => initials(tick)}
-      />
+      <XAxis dataKey="name" allowDataOverflow={true} allowReorder="yes" tickFormatter={(tick) => initials(tick)} />
       <YAxis />
       <Tooltip content={<CustomTooltip />} />
       <Bar
         dataKey={"value"}
-        barSize={30}
-        fill="#8884d8"
+        barSize={25}
+        label={(x) => (
+          <text fill="#fff" transform={`translate(${x.x + x.width / 2 + 5}, ${x.y + x.height - 5}) rotate(-90)`}>
+            {x.name}
+          </text>
+        )}
+        fill="#A87A81"
       />
     </BarChart>
   );
